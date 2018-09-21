@@ -14,3 +14,7 @@
 - [ ] 锁
 - [ ] java并发包
 - [ ] io与nio
+
+# 有用的链接
+#####CAP
+http://www.infoq.com/cn/articles/cap-twelve-years-later-how-the-rules-have-changed
